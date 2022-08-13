@@ -16,3 +16,7 @@ Proje 1
 -- [2,6,16,22,18,27]
 -- [2,6,16,18,22,27]
 
+------B--------
+Big-O gösterimini yazınız.
+Big-0 	O(n^2) 6 elamanlı olduğu için O(6^2) = 36
+
