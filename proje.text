@@ -20,3 +20,15 @@ Proje 1
 Big-O gösterimini yazınız.
 Big-0 	O(n^2) 6 elamanlı olduğu için O(6^2) = 36
 
+------C-------
+ Time Complexity: 
+ Average case: Aradığımız sayının ortada olması
+ Worst case: Aradığımız sayının sonda olması
+ Best case: Aradığımız sayının dizinin en başında olması
+
+ --------D--------
+ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
+ Dizinin sıralnmış hali 
+ [2,6,16,18,22,27]
+ Buna göre 18 sayısı Average case kapsamındadır.
+
